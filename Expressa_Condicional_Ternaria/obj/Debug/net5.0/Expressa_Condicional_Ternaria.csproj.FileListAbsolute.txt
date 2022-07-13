@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\bin\Debug\net5.0\Expressa_Condicional_Ternaria.exe
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\bin\Debug\net5.0\Expressa_Condicional_Ternaria.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\bin\Debug\net5.0\Expressa_Condicional_Ternaria.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\bin\Debug\net5.0\Expressa_Condicional_Ternaria.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\bin\Debug\net5.0\Expressa_Condicional_Ternaria.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\bin\Debug\net5.0\Expressa_Condicional_Ternaria.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\refint\Expressa_Condicional_Ternaria.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\Expressa_Condicional_Ternaria.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Expressa_Condicional_Ternaria\obj\Debug\net5.0\ref\Expressa_Condicional_Ternaria.dll

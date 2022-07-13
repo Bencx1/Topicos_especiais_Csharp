@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\bin\Debug\net5.0\Propriedades_e_operacao_timespan.exe
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\bin\Debug\net5.0\Propriedades_e_operacao_timespan.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\bin\Debug\net5.0\Propriedades_e_operacao_timespan.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\bin\Debug\net5.0\Propriedades_e_operacao_timespan.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\bin\Debug\net5.0\Propriedades_e_operacao_timespan.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\bin\Debug\net5.0\Propriedades_e_operacao_timespan.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\refint\Propriedades_e_operacao_timespan.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\Propriedades_e_operacao_timespan.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_e_operacao_timespan\obj\Debug\net5.0\ref\Propriedades_e_operacao_timespan.dll

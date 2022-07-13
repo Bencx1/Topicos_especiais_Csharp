@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\bin\Debug\net5.0\Estrutura_switch_Case.exe
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\bin\Debug\net5.0\Estrutura_switch_Case.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\bin\Debug\net5.0\Estrutura_switch_Case.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\bin\Debug\net5.0\Estrutura_switch_Case.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\bin\Debug\net5.0\Estrutura_switch_Case.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\bin\Debug\net5.0\Estrutura_switch_Case.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\refint\Estrutura_switch_Case.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\Estrutura_switch_Case.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Estrutura_switch_Case\obj\Debug\net5.0\ref\Estrutura_switch_Case.dll

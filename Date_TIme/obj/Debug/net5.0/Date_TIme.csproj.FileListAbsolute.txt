@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\bin\Debug\net5.0\Date_TIme.exe
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\bin\Debug\net5.0\Date_TIme.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\bin\Debug\net5.0\Date_TIme.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\bin\Debug\net5.0\Date_TIme.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\bin\Debug\net5.0\Date_TIme.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\bin\Debug\net5.0\Date_TIme.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\refint\Date_TIme.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\Date_TIme.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Date_TIme\obj\Debug\net5.0\ref\Date_TIme.dll

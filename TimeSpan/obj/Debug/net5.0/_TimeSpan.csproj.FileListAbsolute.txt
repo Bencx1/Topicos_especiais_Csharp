@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\bin\Debug\net5.0\_TimeSpan.exe
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\bin\Debug\net5.0\_TimeSpan.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\bin\Debug\net5.0\_TimeSpan.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\bin\Debug\net5.0\_TimeSpan.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\bin\Debug\net5.0\_TimeSpan.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\bin\Debug\net5.0\_TimeSpan.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\refint\_TimeSpan.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\_TimeSpan.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\TimeSpan\obj\Debug\net5.0\ref\_TimeSpan.dll

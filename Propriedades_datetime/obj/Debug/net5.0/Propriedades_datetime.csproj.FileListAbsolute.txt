@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\bin\Debug\net5.0\Propriedades_datetime.exe
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\bin\Debug\net5.0\Propriedades_datetime.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\bin\Debug\net5.0\Propriedades_datetime.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\bin\Debug\net5.0\Propriedades_datetime.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\bin\Debug\net5.0\Propriedades_datetime.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\bin\Debug\net5.0\Propriedades_datetime.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\refint\Propriedades_datetime.dll
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.pdb
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\Propriedades_datetime.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\Csharp_oo2\Propriedades_datetime\obj\Debug\net5.0\ref\Propriedades_datetime.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Propriedades_e_operacao_timespan/1.0.0": {
+        "runtime": {
+          "Propriedades_e_operacao_timespan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Propriedades_e_operacao_timespan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
